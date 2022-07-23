@@ -1,3 +1,14 @@
+Hi 👋
+
+I work on accessibility at GitHub.
+
+I'm interested in making tools that help us use the web better.
+
+I have a few projects in the works. [Web Rotor](https://github.com/andrialexandrou/web-rotor) is the first I'm excited to share. Feel free to take a look.
+
+Thanks for stopping by ☕️
+
+
 <!--
 **andrialexandrou/andrialexandrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
